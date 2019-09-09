@@ -19,6 +19,14 @@
 <foaf:homepage rdf:resource="https://linkedin.com/in/pranavganore/"/>
 <foaf:phone rdf:resource="tel:6673525581"/>
 <foaf:schoolHomepage rdf:resource="www.umbc.edu"/>
+<foaf:birthday>06-21</foaf:birthday>
+<foaf:account>
+  <foaf:OnlineAccount>
+    <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/OnlineChatAccount"/>
+      <foaf:accountServiceHomepage rdf:resource="http://www.freenode.net/"/>
+    <foaf:accountName>pganore</foaf:accountName>
+  </foaf:OnlineAccount>
+</foaf:account>
 <foaf:knows>
 <foaf:Person>
 <foaf:name>Ketan Shahapure</foaf:name>
